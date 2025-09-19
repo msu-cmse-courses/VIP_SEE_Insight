@@ -17,8 +17,8 @@ title: VIP at MSU
 tagline: Vertically Integrated Projects Programs
 description: A collaborative research and learning program at Michigan State University
 author: Dirk Colbry
-baseurl: '/Course_website' # the subpath of your site, e.g. /blog
-url: "https://trahman64.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/VIP_SEE_Insight/' # the subpath of your site, e.g. /blog
+url: "https://msu-cmse-courses.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
